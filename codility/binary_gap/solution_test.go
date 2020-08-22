@@ -1,6 +1,8 @@
 package binary_gap
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestBinaryGap(t *testing.T) {
 	testCases := map[int]int{
